@@ -11,9 +11,9 @@ abstract public class Vehicle {
     abstract void stop();
     public static void main(String[] args){
         Car car=new Car();
-        car.no_tyre=4;
-        car.common();
-        car.stop();
+//        car.no_tyre=4;
+//        car.common();
+//        car.stop();
 
     }
 

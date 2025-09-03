@@ -8,7 +8,7 @@ package OPPS.Interface;
 
 //abstraction is used for sharing code among related classes (e.g., Animal, Vehicle)
 // Interface is used for defining capabilities across unrelated classes (e.g., Flyable)
-// All methods are abstract by default (until Java 8 added default/static)
+// All methods in Interface are abstract by default (until Java 8 added default/static)
 
 interface Inter1{
     int salar =112;   // By default, all variables are public static final in Interface.
